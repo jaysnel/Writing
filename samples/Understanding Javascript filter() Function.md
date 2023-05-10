@@ -73,3 +73,4 @@ I hope this has helped you understand filter() in javascript just a little bette
 
 Happy coding!
 
+Can also be found at: https://jsnelson.medium.com/understanding-javascript-filter-out-the-noise-7df3d776712b
