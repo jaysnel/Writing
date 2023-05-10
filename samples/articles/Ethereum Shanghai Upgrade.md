@@ -1,3 +1,5 @@
+# The Ethereum Shanghai Upgrade: Billions Finally Unleashed
+
 The Ethereum (ETH) network is set to undergo the Shanghai upgrade or as others may call it “Shapella upgrade” on April 12, 2023. This will allow users to withdraw tens of billions of dollars that was previously staked in the Ethereum protocol. The upgrade follows Ethereum’s transition from proof-of-work to proof-of-stake in late 2022. Currently around 16% of total Ether supply, worth about $37 billion(https://www.bloomberg.com/news/articles/2023-04-07/why-crypto-is-watching-ethereum-eth-blockchain-shanghai-upgrade), was staked as of early April and it is unclear how many users will choose to cash out once the tokens are unlocked.
 
 The Ethereum Shanghai upgrade comes at a sensitive time as its value continues to fluctuate and the US government continues their crackdown on crypto. In the short term, withdrawal demand is expected to outweigh new staking deposits. However, in the long run, the ability to withdraw staked tokens may make Ether staking more appealing and cause more people to create staking pools, considering most staked ETH comes from only 5 parties.
