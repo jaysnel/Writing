@@ -47,3 +47,5 @@ To perform “Long” or “Short” trades using your USDC, follow these steps:
 5. Follow the on-screen instructions to complete the trade.
 
 Congratulations! You have successfully set up your wallet, bridged ETH to Arbitrum, connected to GMX, and performed trades on the platform. For further assistance or detailed information, refer to the GMX documentation.
+
+Can also be found at: https://jsnelson.medium.com/step-by-step-tutorial-trading-ethereum-on-gmx-decentralized-exchange-7325e5fb6e09
