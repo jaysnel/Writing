@@ -1,7 +1,6 @@
 # From Vision to Reality: Hoskinson Mental Health and Wellness Clinic
 
 > On average, it takes 10 years for research to trickle down into mainstream medical practice. That’s too long. We’ve disconnected from the system to be more agile in our approach and care, tapping into cutting-edge research that makes it clear the old way of doing things isn’t doing us any favors.
-- Hoskinson Mental Health and Wellness Clinic
 
 After visiting the suicide capital of the world, Gillete WY, Charles went to a local high school where he discovered signs in the school stating, “Don’t kill yourself” that was directed towards the students…..THE STUDENTS….I can only imagine. On top of that, the city suffers from nutritional issues, obesity and cancer problems. After this visit, Charles decided he wanted to do more in the healthcare space. He began building a new clinic for excellence within the city to help those in need.
 
