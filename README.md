@@ -1,5 +1,5 @@
 # Technical Writing
 
-This is home to my writing for now. At some point I may create a blog but for now you an also view more work on my Medium.
+This is the home to many of my samples. I currently post them here and also on Medium. You can find a direct link in within each sample.
 
 https://medium.com/@jsnelson
