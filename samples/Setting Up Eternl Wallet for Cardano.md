@@ -70,3 +70,5 @@ This technical documentation provides detailed instructions for setting up an Et
 ## Conclusion 
 
 By following these step-by-step instructions, you can set up an Eternl wallet for Cardano, configure staking to earn rewards, and connect your wallet to dApps on the Cardano network. And remember to always use caution when interacting with dApps and to safeguard your wallet password and recovery phrase. 
+
+This documentation can also be found on: https://jsnelson.medium.com/step-by-step-tutorial-setting-up-eternl-wallet-for-cardano-and-configuring-staking-and-dapp-832674d40715
