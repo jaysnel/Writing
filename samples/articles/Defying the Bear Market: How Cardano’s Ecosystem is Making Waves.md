@@ -1,0 +1,9 @@
+## Defying the Bear Market: How Cardano’s Ecosystem is Making Waves
+
+In the middle of our current bear market, Cardano has managed to become the center of activity, with a variety of projects, meme coins, and an ecosystem that is consistently breaking new records. The total value locked (TVL) in the Cardano network has skyrocketed to a remarkable high of over 446 million ADA, according to DeFiLlama, with approximately 40% of this TVL being hosted on Miniswap — a key player in facilitating this impressive growth.
+
+The increase in Cardano’s activity can be attributed to several developments, the Hydra update announcement that promises to boost transaction speed and making the system more scalable. First, the launch of the Hoskinson Health & Wellness Clinic which says a lot about Cardano’s mission for the people. Adding to the mix is $SNEK, a meme coin that lives on Cardano with the goal of attracting more people to the ecosystem. The popularity of meme coins like $SNEK has been incredible had given rise to $BANK, which managed to obtain over 25M in TVL and 4100 new addresses within 24 hours of its launch.
+
+Viewed as one of the most transformative cryptocurrencies, Cardano’s research-driven approach to blockchain development has gained an exciting and passionate community. The commitment of this community shows in the current bear market, where Cardano seems to be doing the impossible. This surge in popularity is bound to attract others for different blockchains, leading to a more vibrant community, and a likely increase in innovative projects. Despite the tough market, Cardano’s growth and the exciting projects coming from it show how strong and promising.
+
+Can also be found on medium at: https://jsnelson.medium.com/defying-the-bear-market-how-cardanos-ecosystem-is-making-waves-d424dff08801
