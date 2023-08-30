@@ -1,10 +1,10 @@
-# How to Use the Demu Web3 Jukebox Player: Purchase and Play Music
+# How to Use the DEMU Web3 Jukebox Player: Purchase and Play Music
 
-Welcome to Demu, a platform made for musical geniuses. Demu is a platform where artists can be their own bank, streaming platform, and record store, all in one. Artists can sell content directly to their supporters with no middleman, and in return, true fans get direct access to the artists for a more immersive experience.
+Welcome to DEMU, a platform made for musical geniuses. DEMU is a platform where artists can be their own bank, streaming platform, and record store, all in one. Artists can sell content directly to their supporters with no middleman, and in return, true fans get direct access to the artists for a more immersive experience.
 
 If you are an artist and looking to create content in a decentralized way and get paid directly for your work, you can reach out on [Discord](http://discord.gg/rgBTv6cTfb). More formal steps will be provided later.
 
-If you are looking to support your favorite artists and have a more personal experience with them, here is a guide to using Demu Jukebox. You can also visit [Demu's website](https://www.demu.pro/) to understand the protocol, read the litepaper, and learn about the team behind the product.
+If you are looking to support your favorite artists and have a more personal experience with them, here is a guide to using DEMU Jukebox. You can also visit [Demu's website](https://www.demu.pro/) to understand the protocol, read the litepaper, and learn about the team behind the product.
 
 ## Getting Started
 
@@ -20,7 +20,7 @@ If you are looking to support your favorite artists and have a more personal exp
 - **Desktop**: Options will appear on the left hand side.
 - **Mobile**: Options will appear at the bottom right.
 
-These options allow you to view your music store or the current Demu Classic NFT for purchase.
+These options allow you to view your music store or the current DEMU Classic NFT for purchase.
 
 Scroll through to find your favorite artist. Once you find them, you can click "Buy Album" to take you directly to purchase the album or you can click the image to take you to the music player for your selection.
 
