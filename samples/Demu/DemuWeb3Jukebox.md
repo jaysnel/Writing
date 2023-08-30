@@ -1,23 +1,23 @@
 # How to Use the Demu Web3 Jukebox Player: Purchase and Play Music
 
-Welcome to Demu, a platform made for musical geniuses. Demu is a platform where artists can be their own bank, streaming platform, and record store, all in one. Artists can sell content directly to their supporters with no middleman, and in return, true fans get direct access to the artists.
+Welcome to Demu, a platform made for musical geniuses. Demu is a platform where artists can be their own bank, streaming platform, and record store, all in one. Artists can sell content directly to their supporters with no middleman, and in return, true fans get direct access to the artists for a more immersive experience.
 
 If you are an artist and looking to create content in a decentralized way and get paid directly for your work, you can reach out on [Discord](http://discord.gg/rgBTv6cTfb). More formal steps will be provided later.
 
-If you are looking to support your favorite artists and have a more personal experience with them, here is a guide to using Demu Jukebox. You can also visit [Demu's website](https://www.demu.pro/) to read the litepaper along with seeing who the team is.
+If you are looking to support your favorite artists and have a more personal experience with them, here is a guide to using Demu Jukebox. You can also visit [Demu's website](https://www.demu.pro/) to understand the protocol, read the litepaper, and learn about the team behind the product.
 
 ## Getting Started
 
 - Visit [Demu's website](https://www.demu.pro/) to explore.
 - Click on "Buy Music on Jukebox."
-- Click "Choose Wallet" in the upper right corner and select whichever you prefer. Make sure to sign the transaction, and then you are now free to start browsing music.
+- Click "Choose Wallet" in the upper right corner and select whichever you prefer. Make sure to sign the transaction, and then you are free to start browsing music.
 
 ![ChooseWallet](https://github.com/jaysnel/technical-writing/assets/23262423/e65f3b42-fcb7-419a-923d-9d2e43df4add)
 
 
 ## Browsing Music
 
-- **Desktop**: Options will appear on the lefthand side.
+- **Desktop**: Options will appear on the left hand side.
 - **Mobile**: Options will appear at the bottom right.
 
 These options allow you to view your music store or the current Demu Classic NFT for purchase.
@@ -42,9 +42,9 @@ Assuming you have enough ADA in your wallet, once you have completed your purcha
 
 ## Music Player
 
-If you decide to go to the music player, you can either buy the album, which will take you to the above, or you have the option to purchase the rights to play the song, which costs about 2 ADA, or buy the entire album. Once your transaction goes through, you will be free to listen as much as you want! You will also receive an NFT in the wallet you used for purchase, which can be used for verification later on.
+If you decide to go to the music player, you can either buy the album, which will take you to the above, or you have the option to purchase the rights to play the song, which costs about 2 ADA, or buy the entire album. Once your transaction goes through, you can now listen to your new music as much as you want. You will also receive an NFT in the wallet you used for purchase, which can be used for verification later on.
 
-With support for the artists, this will allow you as a fan to become eligible for VIP access to special content, early releases, artist tokens, and more.
+With your unique NFTs, this will allow you as a fan to become eligible for VIP access to special content, early releases, artist tokens, and more!
 
 ![MusicPlayer](https://github.com/jaysnel/technical-writing/assets/23262423/7ef3ddc3-8be3-43b0-8342-4f1f146c717e)
 
