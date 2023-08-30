@@ -42,9 +42,9 @@ Assuming you have enough ADA in your wallet, once you have completed your purcha
 
 ## Music Player
 
-If you decide to go to the music player, you can either buy the album, which will take you to the above, or you have the option to purchase the rights to play the song, which costs about 2 ADA, or to buy the entire album. Once your transaction goes through, you will be free to listen as much as you want! You will also receive an NFT in the wallet you used for purchase, which can be used for verification later on.
+If you decide to go to the music player, you can either buy the album, which will take you to the above, or you have the option to purchase the rights to play the song, which costs about 2 ADA, or buy the entire album. Once your transaction goes through, you will be free to listen as much as you want! You will also receive an NFT in the wallet you used for purchase, which can be used for verification later on.
 
-With support for the artists, this will allow you to become eligible for VIP access to special content, early releases, artist tokens, and more.
+With support for the artists, this will allow you as a fan to become eligible for VIP access to special content, early releases, artist tokens, and more.
 
 ![MusicPlayer](https://github.com/jaysnel/technical-writing/assets/23262423/7ef3ddc3-8be3-43b0-8342-4f1f146c717e)
 
