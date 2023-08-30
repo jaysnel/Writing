@@ -8,7 +8,7 @@ If you are looking to support your favorite artists and have a more personal exp
 
 ## Getting Started
 
-- Visit [Demu's website](https://www.demu.pro/) to explore.
+- Visit [DEMU's website](https://www.demu.pro/) to explore.
 - Click on "Buy Music on Jukebox."
 - Click "Choose Wallet" in the upper right corner and select whichever you prefer. Make sure to sign the transaction, and then you are free to start browsing music.
 
