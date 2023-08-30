@@ -22,7 +22,7 @@ If you are looking to support your favorite artists and have a more personal exp
 
 These options allow you to view your music store or the current Demu Classic NFT for purchase.
 
-Scroll through to find your favorite artist. Once you find them, you can click "Buy Album" to take you directly to purchase the album or you can click its image to take you to the music player for your selection.
+Scroll through to find your favorite artist. Once you find them, you can click "Buy Album" to take you directly to purchase the album or you can click the image to take you to the music player for your selection.
 
 ![searchArtists](https://github.com/jaysnel/technical-writing/assets/23262423/ab13eed1-da13-4d8a-871f-74c6a9352451)
 
@@ -35,7 +35,7 @@ If you choose to "Buy Album," you will come to the following screen where you ca
 
 ## After Purchase
 
-Assuming you have enough ADA in your wallet, once you have completed your purchase, you should see the following:
+Assuming you have enough ADA in your wallet, once you have completed your purchase you will be given an NFT to your wallet and you should see the following:
 
 ![Purchase](https://github.com/jaysnel/technical-writing/assets/23262423/62230fa5-c621-479e-a250-2da099e93da8)
 
