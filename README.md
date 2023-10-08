@@ -1,5 +1,5 @@
 # Technical Writing
 
-This is the home to many of my samples. I currently post them here and also on Medium. You can find a direct link in within each sample.
+Hello and welcome. This is the home to technical writing and article content. Any suggestions are more than welcome as I continue to improve.
 
-https://medium.com/@jsnelson
+If you would like, you can also vist my [Medium account](https://jsnelson.medium.com/) where I have additional content.
