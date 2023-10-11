@@ -1,5 +1,9 @@
 # Technical Writing
 
-Hello and welcome. This is the home to technical writing and article content. Any suggestions are more than welcome as I continue to improve.
+Hello and welcome. This is the home to my technical writing and article content.
 
-If you would like, you can also vist my [Medium account](https://jsnelson.medium.com/) where I have additional content.
+You can also visit: 
+
+Blog: https://jsnelson.medium.com/
+
+Portfolio: https://jaylansnelson.journoportfolio.com/
