@@ -1,4 +1,4 @@
-# Take control of your crypto assets with digital wallets
+# Learn how to protect your crypto assets with crypto wallets
 
 ## Introduction
 
