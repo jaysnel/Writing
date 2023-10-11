@@ -1,4 +1,4 @@
-# Technical Writing
+# Technical & Content Writing
 
 Hello and welcome. This is the home to my technical writing and article content.
 
