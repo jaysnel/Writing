@@ -1,4 +1,4 @@
-# React Fragments in a Nutshell: Strengths and Weaknesses
+# Short Guide to React Fragments `<Fragment></Fragment>`: Pros and Cons
 
 Hello, React developers! As you embark on your journey with React, you're bound to encounter bits of code that may seem puzzling at first glance like I did. Today, let's demystify one such piece: the `<Fragment></Fragment>` and its shorthand `<>...</>`. Take a deep breath, grab a cup of your favorite beverage, and let's calmly explore this topic together.
 
